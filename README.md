@@ -107,6 +107,7 @@ where our flask server is running as specified in the [config.ini]. The port num
 
 # Usage Documentation
 ---
-See [wiki](https://github.com/choosehappy/PatchSorter/wiki)
-[User Manual](https://github.com/choosehappy/PatchSorter/wiki/User-Manual)
-[FAQ] https://github.com/choosehappy/PatchSorter/wiki/Frequently-Asked-Questions 
+See 
+[wiki](https://github.com/choosehappy/PatchSorter/wiki)  
+[User Manual](https://github.com/choosehappy/PatchSorter/wiki/User-Manual)  
+[FAQ](https://github.com/choosehappy/PatchSorter/wiki/Frequently-Asked-Questions)
