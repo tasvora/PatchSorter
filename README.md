@@ -111,3 +111,11 @@ See
 [wiki](https://github.com/choosehappy/PatchSorter/wiki)  
 [User Manual](https://github.com/choosehappy/PatchSorter/wiki/User-Manual)  
 [FAQ](https://github.com/choosehappy/PatchSorter/wiki/Frequently-Asked-Questions)
+
+# Citation
+---
+
+Please use below to cite this paper if you find this repository useful or if you use the software shared here in your research.
+```
+ Talawalla T., Toth R., Walker C., Horlings H., Rea K., Rottenberg S., Madabhushi A., Janowczyk A., "PatchSorter a high throughput open-source digital pathology tool for histologic object labeling", European Society of Digital and Integrative Pathology (ESDIP), Germany, 2022
+```
