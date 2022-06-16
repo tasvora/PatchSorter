@@ -104,3 +104,7 @@ If image files will be uploaded using the upload folder option image directory n
 
 *Note:* This command will forward port 5555 from the computer to port 5555 of the container, 
 where our flask server is running as specified in the [config.ini]. The port number should match the config of running PS on host file system.
+
+# Advanced Usage
+---
+See [wiki](https://github.com/choosehappy/PatchSorter/wiki)
